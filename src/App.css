@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  background-color:#0cecf0;
+  height:100vh;
+  width: auto;
+  padding: 0%;
+}
+
+.header{
+  color:coral;
+  height: 140px;
+  width: 740px;
+  padding: 200px;
+  font-size: 30px;
+}
